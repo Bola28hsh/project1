@@ -5,3 +5,4 @@ const isChecked = true,
 
 console.log(isChecked && !isClosed);
 console.log("Hello World");
+console.log("Hello Bola");
